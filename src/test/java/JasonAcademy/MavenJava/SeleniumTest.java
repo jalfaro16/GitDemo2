@@ -9,6 +9,9 @@ public class SeleniumTest {
 	public void BrowserAutomation() 
 	{
 		System.out.println("BrowserAutomation");
+		//another chnage to put in GIT 
+		System.out.println("NC BrowserAutomation2");
+		
 	}
 	
 	@Test
