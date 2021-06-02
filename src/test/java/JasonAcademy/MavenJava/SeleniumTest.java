@@ -20,5 +20,11 @@ public class SeleniumTest {
 		System.out.println("selectElement");
 	}
 	
+	@Test
+	public void selectElement2() 
+	{
+		System.out.println("selectElement2");
+	}
+	
 	
 }

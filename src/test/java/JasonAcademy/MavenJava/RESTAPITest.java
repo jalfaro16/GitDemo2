@@ -22,5 +22,11 @@ public class RESTAPITest {
 		System.out.println("deleteTwiter");
 	}
 	
+	@Test
+	public void deleteTwiterNEWUPDATE() 
+	{
+		System.out.println("deleteTwiterNEWUPDATE");
+	}
+	
 
 }
